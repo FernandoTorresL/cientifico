@@ -2,13 +2,15 @@ import Header from '../templates/Header';
 import Home from '../pages/Home';
 import Character from '../pages/Character';
 import Error404 from '../pages/Error404';
+import getHash from '../utils/getHash';
+import resolveRoutes from '../utils/resolveRoutes';
 
 const routes = {
 	'/': Home,
 	'/:id': Character,
 	'/about':Error404,
 	'/contact': 'Contact',
-}
+};
 
 const router = async () => {
 	const header = null || document.getElementById('header');
@@ -18,4 +20,3 @@ const router = async () => {
 };
 
 export default router;
-
