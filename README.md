@@ -8,10 +8,10 @@ This project was created with [Vanilla JS](http://vanilla-js.com/), webpack, rou
 
 [Javascript](@tag/JavaScript), [Webpack](@tag/Webpack), [Travis](@tag/Travis), [Node](@tag/Node)
 
-## You can visit the project in the next URL or [live demo](https://www.fertorresmx.dev/cientifico/):
+## You can visit the project in the next URL or [live demo](https://www.fertorresmx.dev/):
 
 ```markdown
-https://www.fertorresmx.dev/cientifico/
+https://www.fertorresmx.dev/
 ```
 
 #### Preview
@@ -47,6 +47,5 @@ npm run build
 
 # Follow me 
 [fertorresmx.com](http://fertorresmx.com/)
-[fertorresmx.dev](http://fertorresmx.dev/)
 
 ## :globe_with_meridians: Twitter, Instagram: @fertorresmx
