@@ -7,6 +7,9 @@ const Header = () => {
 						100tifi.co
 					</a>
 				</h1>
+				<h3>A Project example for this 
+					<a href="https://platzi.com/clases/spa-javascript/">Platzi Course</a>
+				</h3>
 			</div>
 			<div className="Header-nav">
 				<a href="#/about/">
